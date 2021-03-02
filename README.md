@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wassup Gamer!
 
 <!--
 **DaEpicSwag/DaEpicSwag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -------
 
 📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
 ```text
 Python (epic!)               ███████████████░░░░░░░░░░   59.36 % 
 Node.js                      ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
