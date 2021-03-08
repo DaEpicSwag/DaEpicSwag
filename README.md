@@ -4,23 +4,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a rewrite of my stub.
-- 🌱 I’m currently learning **GO**.
+- 🔭 I’m currently working on CookieRiver, a cookie supplier.
+- 🌱 I’m currently learning **Javascript**
 - 👯 I’m looking to collaborate on a project such as a multitool.
-- 🤔 I’m looking for help with **GO**. Im trying to learn it and I would love some help :D
+- 🤔 I’m looking for help with **Python requests with cookies**
 - 💬 Ask me about Cookie loggers and stubs. Im facinated by them!
 - 📫 How to reach me: Contact me through discord, **SonicTheHedHog#0001**
 - 😄 Pronouns: He/ Him/ It/ That
-- ⚡ Fun fact: Despite loving stubs, I do not beam/ comp people. Thats not my specialty. **tee hee**
+- ⚡ Fun fact: The idea of CookieRiver came over a Sprite can.
 
 -------
 
 📊 **Weekly development breakdown**
 ```text
-Python (epic!)               ███████████████░░░░░░░░░░   59.36 % 
-Node.js                      ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-C#                           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Other                        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Python (epic!)               ████████████████████░░░░░   81.00 % 
+Node.js                      ███░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+C#                           █░░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 <!--END_SECTION:waka-->
 
