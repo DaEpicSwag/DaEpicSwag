@@ -22,6 +22,8 @@ Node.js                      ███░░░░░░░░░░░░░░
 C#                           █░░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
+
+> "- Malware is art. Dont let it become a filty criminal's tool" - someone
 <!--END_SECTION:waka-->
 
 -------
