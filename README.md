@@ -2,7 +2,6 @@
 
 <!--START_SECTION:waka-->
 
-Here are some ideas to get you started:
 
 - ex- python person
 - has the audacity to skid projects hard worked on
